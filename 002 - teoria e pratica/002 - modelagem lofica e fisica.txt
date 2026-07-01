@@ -1,0 +1,32 @@
+Sistema de prateleira => Softwares prontos do mercado para realizar operacoes especificas.
+
+Para Modelar o programa do banco de dados especificos sera necessario realizar um documento
+de requisitos para poder comecar a modelar as operacoes, informacoes e projetos para montar
+as atividades e tudo.
+
+* Focar em fazer um documento de requisitos eficiente para poder modelar um banco de dados 
+da forma mais correta e otimizada possivel.
+
+Pensar em uma modelagem basica:
+
+*/ Modelagem Basica */
+
+CLIENTE
+
+NOME - CARACTER(30)
+CPF -  NUMERICO(11)
+EMAIL - CARACTER(30)
+TELEFONE - CARACTER(30)
+ENDERECO - CARACTER(100)
+SEXO - CARACTER(1)
+
+/* PROCESSOS DE MODELAGEM */
+
+/* FASE 01 E FASE 02 - AD ADM DE DADOS */
+
+MODELAGEM CONCEITUAL - RASCUNHO(ISSO QUE TO FAZENDO AQUI)
+MODELAGEM LOGICA - Qualquer programa de modelagem
+
+/* FASE 03 - DBA / AD */
+
+MODELAGEM FISICA - SCRIPTS DE BANCO

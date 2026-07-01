@@ -1,0 +1,8 @@
+ENUM => o nome Enum vem de ENUMeracao.
+
+O do tipo enum vem quand queremos limitar os dados a uma coluna
+
+Float vem de ponto flutuante. Significa algo que varia tanto apra esquerda quanto
+ para direita, Logo a precisao de conta vai ser maior. float(total,virgula).ex:
+
+	float(10, 2)

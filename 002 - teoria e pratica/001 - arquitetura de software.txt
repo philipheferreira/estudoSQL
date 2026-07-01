@@ -1,0 +1,12 @@
+Explicacao de como funciona arquitetura de software na pratica na imagem. Banco de dados
+armazena as informacoes e o front mostra o dado armazenado.
+
+No banco de dados ele explica arquitetura de software MVC, que ser dividida em 3 partes:
+
+	VIEW: O que o usuario ve (HTML, CSS, JAVSCRIPT e JQUERRY)
+
+	CONTROLER: Regras de negocio (JAVA, PH< C#, RUBY)
+
+	MODEL: encotramos as classes modelos, classes simples que representam o objeto. As
+classes modelos sao representadas por tabelas por bancos de dados
+

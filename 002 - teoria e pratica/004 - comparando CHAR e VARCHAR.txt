@@ -1,0 +1,8 @@
+Tipos de caracter:
+
+Para os caracteres literais temos var e varchar, para os numeros temos o int e o flot,
+para objetos como foto e documento temos o BLOB, para textos grandes temos o text.
+
+Para utilizar isso temos a tipagem de tabelas.
+
+Cara caracter em um banco de dados equivale a 1 byte. 1 caractere => 1 byte
