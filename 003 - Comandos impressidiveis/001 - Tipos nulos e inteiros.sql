@@ -17,4 +17,4 @@ INSERT INTO cliente VALUES ('Jorge', 'M', NULL , 885755896 , '58748895' , 'Oscar
 
 /* FORMA 02 - COLOCANDO AS COLUNAS */
 
-INSERT INTO cliente(nome, sexo, endereco, telefone, cpf) VALUES (''
+INSERT INTO cliente(nome, sexo, endereco, telefone, cpf) VALUES ('');
