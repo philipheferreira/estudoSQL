@@ -13,3 +13,4 @@ SELECT nome, sexo, endereco FROM cliente WHERE sexo = 'F' OR endereco LIKE '%EST
 SELECT nome, sexo, endereco FROM cliente WHERE sexo = 'M' AND endereco LIKE '%RJ';
 
 SELECT nome, sexo, endereco FROM cliente WHERE sexo = 'F' AND endereco LIKE '%ESTACIO';
+
